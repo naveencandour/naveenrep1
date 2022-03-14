@@ -16,6 +16,7 @@ public  class Test {
 		Test test = new Test();
 		int i = test.sueYou(12345);
 		System.out.println(i);
+		System.out.println("naveen");
 		
 		
 	}
